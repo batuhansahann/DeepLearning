@@ -1,5 +1,5 @@
 # 🔥 Deep Learning Projects 🚀
-![Data Visualization GIF](./fire.gif)
+![Data Visualization GIF](./1.gif)
 ## 📝 Overview
 Welcome to my Deep Learning repository! This collection showcases my journey in Deep Learning through various projects and study notes. Each project demonstrates the application of neural networks and deep learning techniques to solve real-world problems. From foundational concepts to advanced models, this repository covers a wide spectrum of topics.
 
